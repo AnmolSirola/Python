@@ -93,3 +93,22 @@ class chatbook:
 
 
 # user1 = chatbook()
+
+
+# Things to practice:
+# getter & setter methods in OOP
+# Collection of class objects in OOP
+# Static Variables & Methods in OOP
+# Aggregation in OOP
+# Aggregation class diagram in OOP
+# Inheritance in OOP
+# Inheritance class diagram in OOP
+# What gets Inherited
+# Method Overriding in OOP
+# Super Keyword in OOP
+# Types of Inheritance in OOP 
+# Polymorphism in OOP
+# Abstraction in OOP 
+# Modular Coding in Python
+# if _name_ == "__main__" in Python  
+# Mega OOP Project
